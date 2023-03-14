@@ -57,5 +57,3 @@ jobs:
         name: TWRP_Device_Tree-${{ github.run_id }}
         tag_name: ${{ github.run_id }}
         body: DeviceTree for twrp
-      env:
-        GITHUB_TOKEN: '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'
